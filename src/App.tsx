@@ -281,8 +281,8 @@ export default function App() {
                     Academic Year 2024–2025
                   </div>
                   <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white font-bold leading-[1.1] mb-6">
-                    Graduation <br />
-                    <span className="italic font-normal text-[#f0d88a]">Satisfaction</span> Survey
+                    Graduate <br />
+                    <span className="italic font-normal text-[#f0d88a]">Exit</span> Survey
                   </h1>
                   <p className="text-sm text-white/60 max-w-lg mx-auto mb-8 leading-relaxed">
                     Your voice shapes a better graduation for every MVGFC graduate who comes after you. This takes about 5–7 minutes.
